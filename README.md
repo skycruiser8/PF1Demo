@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Begin Programming Assignment 3
 
-You can use the [editor on GitHub](https://github.com/skycruiser8/PF1Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skycruiser8/PF1Demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Baktiadi Raharja Tampubolon,baktiadi@burhancompany.com
+Zahra Novitasari,zahra@burhancompany.com
+Raina Utami,raina@burhancompany.com
+Calista Ratna Purnawati,calista@burhancompany.com
+Bajragin Virman Adriansyah,bajrangin@burhancompany.com
+Rahayu Utami,rahayu@burhancompany.com
+Hesti Julia Pertiwi,hesti@burhancompany.com
+Damu Manullang,damu@burhancompany.com
+Hesti Natalia Nasyidah,hesti.n@burhancompany.com
+Cemeti Megantara,cemeti@burhancompany.com
+Setya Pratama,setya@burhancompany.com
+Hamima Rahmawati,hamima@burhancompany.com
+Rina Hartati,rina@burhancompany.com
+Vera Hartati,vera@burhancompany.com
+Jaswadi Suwarno,jaswadi@burhancompany.com
+Rahman Harjasa Marpaung,rahman@burhancompany.com
+Legawa Pradipta,legawa@burhancompany.com
+Ganda Prabowo,ganda@burhancompany.com
+Malik Wacana,malik@burhancompany.com
+Panji Gambira Mustofa,panji@burhancompany.com
+Hardi Cakrabuana Waskita,hardi@burhancompany.com
+Talia Maryati,talia@burhancompany.com
+Asirwada Mulyono Kuswoyo,asirwada@burhancompany.com
+Alika Puspasari,alika@burhancompany.com
+Sembrani Harinaputri Anjani,sembrani@burhancompany.com
+Gajayana Gede Dwipangga,gajayana@burhancompany.com
+Taksakaputra Adiwarna,taksakaputra@burhancompany.com
+Bimasari Turanggaputri,bimasari@burhancompany.com
+Fajar Utama Yogyakarta,fajar@burhancompany.com
