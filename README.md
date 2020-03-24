@@ -15,7 +15,7 @@ A fictitious data about Liquefied Petroleum Gas (LPG) reseller agents and their 
 > [https://skycruiser8.github.io/kereta.html](https://skycruiser8.github.io/kereta.html): 1st programming contest data (Train data)
 
 A fictitious data about PT. KCI train number and its assigned Electric Multiple Unit (EMU) train.
-The train number data is factual and is obtained through [http://www.krl.co.id/unduh-jadwal-terbaru-krl-6/](PT. KCI's official schedule of trains).
+The train number data is factual and is obtained through [PT. KCI's official schedule of trains](http://www.krl.co.id/unduh-jadwal-terbaru-krl-6/).
 
 > [https://skycruiser8.github.io/sarana.html](https://skycruiser8.github.io/sarana.html): 1st programming contest data (EMU data)
 
