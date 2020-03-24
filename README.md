@@ -1,59 +1,38 @@
-## Begin Programming Assignment 3
+# PF1Demo
 
-Baktiadi Raharja Tampubolon,baktiadi@burhancompany.com
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Zahra Novitasari,zahra@burhancompany.com
+## Description
 
-Raina Utami,raina@burhancompany.com
+PF1Demo stands for "Programming Foundations 1 Demonstration". As the name suggests, this repository is used to demonstrate certain aspects of the Programming Foundations 1 course (CSGE601020) in Universitas Indonesia's Faculty of Computer Science. Specifically, this repository is used to host a GitHub Pages instances which serves data to be collected using <code>urllib</code> module in Python, which is part of the course's material.
 
-Calista Ratna Purnawati,calista@burhancompany.com
+## Endpoints
 
-Bajragin Virman Adriansyah,bajrangin@burhancompany.com
+> [https://skycruiser8.github.io/index.html](https://skycruiser8.github.io/index.html): 3rd programming assignment data (Gas reseller agents)
 
-Rahayu Utami,rahayu@burhancompany.com
+A fictitious data about Liquefied Petroleum Gas (LPG) reseller agents and their retail quotas.
 
-Hesti Julia Pertiwi,hesti@burhancompany.com
+> [https://skycruiser8.github.io/kereta.html](https://skycruiser8.github.io/kereta.html): 1st programming contest data (Train data)
 
-Damu Manullang,damu@burhancompany.com
+A fictitious data about PT. KCI train number and its assigned Electric Multiple Unit (EMU) train.
+The train number data is factual and is obtained through [http://www.krl.co.id/unduh-jadwal-terbaru-krl-6/](PT. KCI's official schedule of trains).
 
-Hesti Natalia Nasyidah,hesti.n@burhancompany.com
+> [https://skycruiser8.github.io/sarana.html](https://skycruiser8.github.io/sarana.html): 1st programming contest data (EMU data)
 
-Cemeti Megantara,cemeti@burhancompany.com
+A data about some of PT. KCI's EMU data and the cars that are part of a certain EMU.
+This data is obtained through Indonesian Wikipedia's site about: 
+1. [JR East 203 series EMU](https://id.wikipedia.org/wiki/Kereta_rel_listrik_JR_East_seri_203)
+2. [JR East 205 series EMU](https://id.wikipedia.org/wiki/Kereta_rel_listrik_JR_East_seri_205)
+3. [Tokyo Metro 6000 series EMU](https://id.wikipedia.org/wiki/Kereta_rel_listrik_Tokyo_Metro_seri_6000)
+4. [Tokyo Metro 7000 series EMU](https://id.wikipedia.org/wiki/Kereta_rel_listrik_Tokyo_Metro_seri_7000)
+5. [Tokyo Metro 05 series EMU](https://id.wikipedia.org/wiki/Kereta_rel_listrik_Tokyo_Metro_seri_05)
 
-Setya Pratama,setya@burhancompany.com
+## Author
 
-Hamima Rahmawati,hamima@burhancompany.com
+Rafi Muhammad Daffa (skycruiser8)
 
-Rina Hartati,rina@burhancompany.com
+## License
 
-Vera Hartati,vera@burhancompany.com
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Jaswadi Suwarno,jaswadi@burhancompany.com
-
-Rahman Harjasa Marpaung,rahman@burhancompany.com
-
-Legawa Pradipta,legawa@burhancompany.com
-
-Ganda Prabowo,ganda@burhancompany.com
-
-Malik Wacana,malik@burhancompany.com
-
-Panji Gambira Mustofa,panji@burhancompany.com
-
-Hardi Cakrabuana Waskita,hardi@burhancompany.com
-
-Talia Maryati,talia@burhancompany.com
-
-Asirwada Mulyono Kuswoyo,asirwada@burhancompany.com
-
-Alika Puspasari,alika@burhancompany.com
-
-Sembrani Harinaputri Anjani,sembrani@burhancompany.com
-
-Gajayana Gede Dwipangga,gajayana@burhancompany.com
-
-Taksakaputra Adiwarna,taksakaputra@burhancompany.com
-
-Bimasari Turanggaputri,bimasari@burhancompany.com
-
-Fajar Utama Yogyakarta,fajar@burhancompany.com
+This is work uses Creative Commons-Attribution-ShareAlike 4.0 license as a part of our commitment to provide open data. This license is derived from Wikipedia's policy of using this paricular license. Any inquiries about this repository can be raised through this GitHub repository or through my email (rafi.daffa@gmail.com)
